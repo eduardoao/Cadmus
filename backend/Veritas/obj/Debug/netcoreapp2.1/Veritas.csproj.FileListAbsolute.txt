@@ -1,0 +1,3 @@
+C:\Users\7700358584\Documents\eaocad\backend\Veritas\obj\Debug\netcoreapp2.1\Veritas.csproj.CoreCompileInputs.cache
+C:\Users\7700358584\Documents\eaocad\backend\Veritas\obj\Debug\netcoreapp2.1\Veritas.AssemblyInfoInputs.cache
+C:\Users\7700358584\Documents\eaocad\backend\Veritas\obj\Debug\netcoreapp2.1\Veritas.AssemblyInfo.cs
